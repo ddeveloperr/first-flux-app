@@ -8,8 +8,8 @@ This is the simples possible App that implements the React framework on top of t
 
 ## Installation
 
-    git clone git@github.com:bengrunfeld/react-flux-simple-app.git
-    cd react-flux-simple-app
+    git clone https://github.com/ddeveloperr/first-flux-app.git
+    cd first-flux-app
     sudo npm install 
     gulp
 

@@ -10,7 +10,7 @@ This is the simples possible App that implements the React framework on top of t
 
     git clone git@github.com:bengrunfeld/react-flux-simple-app.git
     cd react-flux-simple-app
-    npm install
+    sudo npm install 
     gulp
 
-## Usage
+## DO Experiment!
